@@ -1,7 +1,7 @@
 import cv2
 import os
 
-path = "../images/train"
+path = "../images"
 orb = cv2.ORB_create(nfeatures=1000)
 
 ### importing images dataset
